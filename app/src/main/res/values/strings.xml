@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Welcome</string>
+    <string name="btn_translate">TRANSLATE</string>
+    <string name="tv_phrase">Welcome</string>
+    <string-array name="languages">
+        <item>English</item>
+        <item>Spanish</item>
+        <item>German</item>
+        <item>French</item>
+    </string-array>
+</resources>
