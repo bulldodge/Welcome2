@@ -3,7 +3,7 @@
     <string name="btn_translate">TRANSLATE</string>
     <string name="tv_phrase">Welcome</string>
     <string-array name="languages">
-        <item>English</item>
+        <item>Englishe</item>
         <item>Spanish</item>
         <item>German</item>
         <item>French</item>
